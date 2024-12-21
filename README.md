@@ -34,8 +34,8 @@ A blockchain landing page is essential for any blockchain-related business. Many
 
 ## Features
 
-- [x] Hero Section: A captivating introduction to grab user attention and convey the value of blockchain technology at a glance.
-- [x] Blogs Section: Informative and engaging blog posts to educate users about blockchain's importance and applications.
+- [x] Dark & Light Mode: You abile to choose the theme that's you prefer. 
+- [x] Blogs : Informative and engaging blog posts to educate users about blockchain's importance and applications.
 - [x] Ready to Get Started Section: A clear call-to-action encouraging users to take the next step in exploring or adopting your blockchain solutions.
 - [x] Footer: Essential links and contact information for seamless navigation and engagement.
 
